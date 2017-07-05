@@ -23,7 +23,7 @@ sqrt(x)x的平方根
 
 ```
 
-###date和timestamp日期和时间戳
+### date和timestamp日期和时间戳
 ```
 1. select sysdate from dual;
   2017/7/5 14:37:27
